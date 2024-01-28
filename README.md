@@ -1,6 +1,5 @@
 [![MasterHead](img.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm a Python Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-awab&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-awab" /> </p>
