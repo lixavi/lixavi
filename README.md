@@ -24,7 +24,7 @@ I'm a passionate **Technical Product Head** with a knack for building products t
   
 ## 📫 How to reach me
 
-LinkedIn: https://linkedin.com/lixavi
+LinkedIn: <a href="https://uk.linkedin.com/in/linusxavier">https://uk.linkedin.com/in/linusxavier</a>
 
 ---
 
